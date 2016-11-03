@@ -23,7 +23,7 @@ github_username:  My2ndAngelic
 
 # Build settings
 markdown: kramdown
-theme: linear
+theme: minima
 gems:
   - jekyll-feed
 exclude:
