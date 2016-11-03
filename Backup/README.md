@@ -37,10 +37,12 @@ I can do pretty much of the same thing.
 - Teaching volutarily
 
 ## Hire me, senpai
-Currently, I am not available for hire. I am studying. Sorry, senpai.
+Currently, I am not available for hire. I am studying. Sorry, senpai, but you have to wait for me.
 
 ## Contact me
 If you need my CV or want to make friend, or if you have another inquiry, please contact me via these methods below.
+
+On GitHub: [Website](https://my2ndangelic.github.io), [My2ndAngelic on GitHub](https://github.com/My2ndAngelic)
 
 On Discord: [My private Discord server](discord.me/My2ndAngelic) or [Scammer Sub Lounge](discord.me/ScammerSubLounge)
 
