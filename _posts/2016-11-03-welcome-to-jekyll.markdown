@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to My2nAngelic fanpage"
+title:  "Welcome to My2ndAngelic fanpage"
 date:   2016-11-03 21:33:47 +0100
 categories: jekyll update
 ---
