@@ -1,7 +1,5 @@
-# my2ndangelic.github.io
-
- My2ndAngelic
- A member of the Maple Alliance
+# My2ndAngelic
+**A member of the Maple Alliance**
 
 ## Introduction
 Welcome to My2ndAngelic page. This is my private website, powered by GitHub, Atom, Markdown, macOS Sierra, Windows 7, Notepad,
@@ -9,28 +7,53 @@ Welcome to My2ndAngelic page. This is my private website, powered by GitHub, Ato
 Actually, this is my private website hosted on GitHub.
 
 ## Who am I?
-My name is My2ndAngelic
+My name is My2ndAngelic. I live in Sweden and studying.
 
 ## What can I do?
+I can do pretty much of the same thing.
 
+### Languages
+- Development
+ - Pascal
+ - C#
+ - Python
+- Speaking
+ - Vietnamese
+ - English
+ - Swedish
 
+### Computer Experiences
+- Softwares
+ - OS: Windows (from XP to 10), macOS (from Leopard to Sierra)
+ - Geography Information System: QGIS
+ - Office: LibreOffice, Microsoft Office suite (from 2003 to 2016)
+ - Movie subtitles: Aegisub
+ - Text editors: Notepad, Atom, nano
+ - LaTeX skills
+- Hardwares
+ - Fixing laptops
+
+### Social skills
+- Teaching volutarily
 
 ## Hire me, senpai
-Currently, I am not available for hire. I am studying for
+Currently, I am not available for hire. I am studying. Sorry, senpai.
 
 ## Contact me
+If you need my CV or want to make friend, or if you have another inquiry, please contact me via these methods below.
+
 On Discord: [My private Discord server](discord.me/My2ndAngelic) or [Scammer Sub Lounge](discord.me/ScammerSubLounge)
 
 On reddit: [My2ndAngelic on reddit](reddit.com/u/My2ndAngelic)
 
 On Keybase: [My2ndAngelic on keybase.io](https://keybase.io/my2ndangelic)
 
-On email: [contact form] or send an email to [m2a(at)my2ndangelic(dot)me](m2a@my2ndangelic.me)
+On email: send me an email to [my2ndangelic@gmail.com](my2ndangelic@gmail.com).
 
-Another website:
+Another website: [my2ndangelic.github.io](https://my2ndangelic.github.io), [The M2A, KTRG, E-kun Portal](http://m2a-ktrgchan-ekun.wixsite.com/portal)
 
-My blog
+My blog: [WordPress](https://my2ndangelic.wordpress.com)
 
-My Youtube channel:
+My YouTube channel: [My2ndAngelic on YouTube](https://youtube.com/My2ndAngelic)
 
-My PGP key:
+My PGP key: BB42 CDC1 BE67 4C6C FFFD  D94B BB8A 0D80 F497 83B7
