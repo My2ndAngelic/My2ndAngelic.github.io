@@ -16,7 +16,7 @@
 title: My2ndAngelic
 email: my2ndangelic@gmail.com
 description: This is My2ndAngelic page.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://my2ndangelic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: My2ndAngelic
 github_username:  My2ndAngelic
