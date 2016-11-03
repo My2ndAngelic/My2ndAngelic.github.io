@@ -1,5 +1,9 @@
-# My2ndAngelic
-**A member of the Maple Alliance**
+---
+layout: page
+title: About
+permalink: /about/
+---
+# About me
 
 ## Introduction
 Welcome to My2ndAngelic page. This is my private website, powered by GitHub, Atom, Markdown, macOS Sierra, Windows 7, Notepad,
