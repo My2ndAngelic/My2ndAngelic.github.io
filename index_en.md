@@ -10,7 +10,7 @@ Actually, this is my private website hosted on GitHub.
 My name is My2ndAngelic. I live in Sweden and studying.
 
 ## What can I do?
-I can do pretty much of the same thing.
+I can do pretty much of what I can.
 
 ### Languages
 - Development
@@ -57,5 +57,9 @@ Another website: [my2ndangelic.github.io](https://my2ndangelic.github.io), [The 
 My blog: [WordPress](https://my2ndangelic.wordpress.com)
 
 My YouTube channel: [My2ndAngelic on YouTube](https://youtube.com/My2ndAngelic)
+
+On Wikipedia:
+
+On OpenStreetMap:
 
 My PGP key: BB42 CDC1 BE67 4C6C FFFD  D94B BB8A 0D80 F497 83B7

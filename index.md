@@ -1,4 +1,7 @@
-#Select your language
+#Welcome to My2ndAngelic
+Please select your next action
+
+##Language
 
 [English](/index_en.html)
 
@@ -6,10 +9,7 @@ Swedish
 
 Vietnamese
 
-# Select your destination
+##Destination
 
 [LaTeX]
 
-[jekyll](/jekyll)
-
-[hugo](/hugo)
