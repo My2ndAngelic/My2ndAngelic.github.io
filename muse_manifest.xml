@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.github.io" resolutions="1x" timestamp="1502584565566">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="contact.css" crc="3994937640" ref="contact"/>
+    <file name="list.css" crc="232194734" ref="list"/>
+    <file name="index.css" crc="154879638" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:list"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact:list"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:list"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:contact:list"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:contact:list"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact:list"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:list"/>
+    <file name="require.js" crc="3951022091" ref="index:contact:list"/>
+    <file name="webpro.js" crc="4143865194" ref="list"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="list"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3888748215" ref="index"/>
+    <file name="cutmypic.png" crc="3828806970" seo="true" ref="index:contact:list">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="list" alt=""/>
+    </file>
+    <file name="contact-favicon.ico" crc="3888748215" ref="contact"/>
+    <file name="list-favicon.ico" crc="3888748215" ref="list"/>
+    <file name="road.jpg" crc="390117498" seo="true" ref="list">
+      <caption webpage="list" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="509767820" seo="true" ref="list">
+      <caption webpage="list" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="386417028" seo="true" ref="list">
+      <caption webpage="list" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3824117358" seo="true" mt="1502584371551" redirect="true"/>
+  <file name="contact.html" crc="405466584" seo="true" mt="1502584371551" redirect="true"/>
+  <file name="list.html" crc="4202250291" seo="true" mt="1502584538064" redirect="true"/>
+</manifest>
