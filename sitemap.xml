@@ -18,22 +18,4 @@
       <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://my2ndangelic.github.io/list.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://my2ndangelic.github.io/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://my2ndangelic.github.io/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://my2ndangelic.github.io/images/trees.jpg</image:loc>
-    </image:image>
-  </url>
 </urlset>
