@@ -1,28 +1,37 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.github.io" resolutions="1x" timestamp="1502807240545">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.github.io" resolutions="1x" timestamp="1502973500534">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="contact.css" crc="4116675317" ref="contact"/>
-    <file name="index.css" crc="338583251" ref="index"/>
+    <file name="contact.css" crc="4187573439" ref="contact"/>
+    <file name="index.css" crc="4276406219" ref="index"/>
+    <file name="note.css" crc="97368600" ref="note"/>
+    <file name="list.css" crc="3819656198" ref="list"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
-    <file name="museutils.js" crc="4216313831" ref="index:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:contact"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="index:contact"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
-    <file name="require.js" crc="3951022091" ref="index:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:list:note"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact:list:note"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:list:note"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:contact:list:note"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:contact:list:note"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact:list:note"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:list:note"/>
+    <file name="require.js" crc="3951022091" ref="index:contact:list:note"/>
+    <file name="webpro.js" crc="4143865194" ref="list"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="list"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="3888748215" ref="index"/>
-    <file name="cutmypic.png" crc="3828806970" seo="true" ref="index:contact">
+    <file name="cutmypic.png" crc="3828806970" seo="true" ref="index:contact:list:note">
       <caption webpage="index" alt=""/>
-      <caption webpage="list" alt=""/>
+      <caption webpage="note" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="list" alt=""/>
     </file>
     <file name="contact-favicon.ico" crc="3888748215" ref="contact"/>
+    <file name="list-favicon.ico" crc="3888748215" ref="list"/>
+    <file name="note-favicon.ico" crc="3888748215" ref="note"/>
   </folder>
-  <file name="index.html" crc="3968611253" seo="true" mt="1502661369662" redirect="true"/>
-  <file name="contact.html" crc="243565724" seo="true" mt="1502806081049" redirect="true"/>
+  <file name="index.html" crc="196871987" seo="true" mt="1502973347572" redirect="true"/>
+  <file name="contact.html" crc="3910100598" seo="true" mt="1502973347592" redirect="true"/>
+  <file name="list.html" crc="214876172" seo="true" mt="1502973347583" redirect="true"/>
+  <file name="note.html" crc="4051658617" seo="true" mt="1502973347603" redirect="true"/>
 </manifest>
