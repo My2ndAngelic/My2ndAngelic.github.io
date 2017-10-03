@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/my2ndangelic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://my2ndangelic.github.io
+  * I am my2ndangelic (https://keybase.io/my2ndangelic) on keybase.
+  * I have a public key with fingerprint DA85 B726 A365 AAB7 C4D3  978E 7EC9 2EA1 D1AD 04E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d69375121034daea106f3fbe5f4ea2cab8c08af4856c90ea171a429bb5c0834b0a",
+      "fingerprint": "da85b726a365aab7c4d3978e7ec92ea1d1ad04e2",
+      "host": "keybase.io",
+      "key_id": "7ec92ea1d1ad04e2",
+      "kid": "0101a14a662f8f1b3f4b70c165fe396ae42ab184d63142e5b7ea15419649caa4ab290a",
+      "uid": "5e933f2e450fc24a40bdab987692da19",
+      "username": "my2ndangelic"
+    },
+    "service": {
+      "hostname": "my2ndangelic.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507025581,
+  "expire_in": 157680000,
+  "prev": "f5426e03fef105b98ba4995e7e87e44ad09afa58d723fa58d51448a0296c65ed",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMN1AnicbZJ9UFRVGMZ3ESmWtiHSZSJQuYLCCHg/zv1awmjSKYJsJRxGB1jOvffc
+3cvH7rofEGyQZYY5MNmINoJhihAaojiTzlBmCmRIokZgX5KQpKS5jOIoyGB3qaZ/
+PP+cOec87+88z3tOl36ORqet7Enae/FQ4Ii291SzR7OuXzjkxQS7VIYZvVghmp1Q
+kYRcbnOhImFGDCdwQmJ4iqUJksApIEEECZyRKVlAtAwQJEUocCLOQRlwNCPyuHrO
+EhCQvCDQ6j4FBBxiCZis2CzI6XAqNreKlSBHCyzJQIqhIRRYEUgUz3KIRSJPqgSJ
+gBIOEKkWWu0uf4VqToAulKTY1T11YZ619wj9/74hASDDkDInEwIlA4HFRYKhZUTx
+DESAhALBAYmhCEAi1YxKoQHBM4AXIQRQIPlZ355ZHI14ipJJBGhcFkkAAS5IUOA5
+luFJCRK8X+hCThssRqq6uIy0SVDNW6SIWEUCpp6UKCLyN9ef5hGqJIvitnqEf9I5
+nHa3XbQXqRqr2+1wGf0Md5nDX1SKBPO/OLOg2CS1q2pFCXK6FLsNMxKqUnQrfj5B
+4yxO0jRHJGDoDYfiRGbFr6BZhsPV4b8HlahImQYkg3BKRjKB02ooAQKep9W34FgE
+gNpYHsqQ5iSWpGZnmgCAgzjJMyJDIwnzB9xgs2NGwKg+oUVluhSLDbo9ToRVnD6V
+E6jR6jRBcwP8302jCw797xNS74dqfsGn6ouvXg+tP+nIejLk860Tvy8ffSG2eyBv
+56vp25t72z3KQ2ta5qAu/eXR0/GaoZbpvKqngk17zl2IrjbM61qt25h2bE3Y01vL
+a62d+0N4YUFJZ2BF3KJLmfqqleOj5bVXkvQ/TVwbWjlpiUvsSDk303Z/aOydmqKw
+2/N3tKC+i3847+9Pu/uRpoibPrF7Sca4NX7pN/01418f+FjzWI0p4N6EL/FZT+7C
+tw3rv03t+fTgLXlt8trhZ9IXv7IrtnkkyOXttjmpTs2vA4m14QuzPlt1fubk8jFf
+aWfg9YAebtNDx+Y9y9IaDz7ushhaj0ST24zlQ2BZTJv16JkmLnVgMDUkwfzapuSo
+5ir25lfyA0fuc1E3S3OPCJVxhvqzn3jyar4cHpnafnjX+YKUyXxT9ntZdTl3f54/
+oPX2tOVXjvx5+MaFKz/qu8nIt5r2NUZp6yJ36o9eyi7MaHjelOz7MNPki+58qXH1
+bSc/sHvL1TeNl8c3vP7B3tjLw2e1+fMKpY2/KeHVckxkSZdv2ySRcrwvxHrcu+BO
+g2b4VtsTxUln9C3euhePffF9KxU2d81fmgK96V7IindT933nm1qvpXJ6TU0RBc52
+06rWiMU9WHts6LUl5XM2F+huBHMr+k5sMcD46ZrqwQdLEyl8R0ZD95h+XXhHX5Ch
+I+aAz5CVld3Xfyci64eZhkW2vwGQwsRu
+=L2xQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/my2ndangelic
+
+==================================================================
