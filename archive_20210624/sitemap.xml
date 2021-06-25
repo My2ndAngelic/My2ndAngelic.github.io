@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://my2ndangelic.me/index.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <loc>http://my2ndangelic.github.io/index.html</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://my2ndangelic.me/images/cutmypic.png</image:loc>
+      <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://my2ndangelic.me/contact.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <loc>http://my2ndangelic.github.io/contact.html</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://my2ndangelic.me/images/cutmypic.png</image:loc>
+      <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://my2ndangelic.me/list.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <loc>http://my2ndangelic.github.io/list.html</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://my2ndangelic.me/images/cutmypic.png</image:loc>
+      <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://my2ndangelic.me/blog.html</loc>
-    <lastmod>2021-06-25</lastmod>
+    <loc>http://my2ndangelic.github.io/note.html</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://my2ndangelic.me/images/cutmypic.png</image:loc>
+      <image:loc>http://my2ndangelic.github.io/images/cutmypic.png</image:loc>
     </image:image>
   </url>
 </urlset>
