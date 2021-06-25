@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624581937955">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624664228988">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="4058986600"/>
     <file name="master_a-master.css" crc="269008082" ref="list:blog:index:contact"/>
     <file name="list.css" crc="529687378" ref="list"/>
-    <file name="blog.css" crc="3944290423" ref="blog"/>
+    <file name="blog.css" crc="82864092" ref="blog"/>
     <file name="index.css" crc="482831420" ref="index"/>
-    <file name="contact.css" crc="474762239" ref="contact"/>
+    <file name="contact.css" crc="348809557" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:list:blog"/>
@@ -20,17 +20,17 @@
     <file name="musewpdisclosure.js" crc="3883500470" ref="list"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3888748215" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="favicon.ico" crc="3888748215" ref="index:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact"/>
     <file name="cutmypic.png" crc="3828806970" seo="true" ref="index:contact:list:blog">
       <caption webpage="index" alt=""/>
       <caption webpage="list" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4280447574" seo="true" mt="1624579136308" redirect="true"/>
-  <file name="contact.html" crc="19508965" seo="true" mt="1624572729831" redirect="true"/>
+  <file name="contact.html" crc="3788968104" seo="true" mt="1624663254101" redirect="true"/>
   <file name="list.html" crc="3758678310" seo="true" mt="1624572653050" redirect="true"/>
-  <file name="blog.html" crc="110965396" seo="true" mt="1624572760747" redirect="true"/>
+  <file name="blog.html" crc="471339063" seo="true" mt="1624664183389" redirect="true"/>
 </manifest>
