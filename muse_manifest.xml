@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624664228988">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624836110336">
   <folder name="css">
     <file name="site_global.css" crc="4058986600"/>
     <file name="master_a-master.css" crc="269008082" ref="list:blog:index:contact"/>
-    <file name="list.css" crc="529687378" ref="list"/>
+    <file name="list.css" crc="3893131895" ref="list"/>
     <file name="blog.css" crc="82864092" ref="blog"/>
-    <file name="index.css" crc="482831420" ref="index"/>
+    <file name="index.css" crc="4206682021" ref="index"/>
     <file name="contact.css" crc="348809557" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -29,8 +29,8 @@
       <caption webpage="contact" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4280447574" seo="true" mt="1624579136308" redirect="true"/>
+  <file name="index.html" crc="340116538" seo="true" mt="1624829375220" redirect="true"/>
   <file name="contact.html" crc="3788968104" seo="true" mt="1624663254101" redirect="true"/>
-  <file name="list.html" crc="3758678310" seo="true" mt="1624572653050" redirect="true"/>
+  <file name="list.html" crc="4056432873" seo="true" mt="1624832684693" redirect="true"/>
   <file name="blog.html" crc="471339063" seo="true" mt="1624664183389" redirect="true"/>
 </manifest>
