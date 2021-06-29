@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624934034265">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624934233547">
   <folder name="css">
     <file name="site_global.css" crc="421304609"/>
     <file name="master_a-master.css" crc="3846404222" ref="list:blog:index:contact"/>
-    <file name="list.css" crc="3935719697" ref="list"/>
-    <file name="blog.css" crc="124802269" ref="blog"/>
-    <file name="index.css" crc="4233988629" ref="index"/>
-    <file name="contact.css" crc="4076271920" ref="contact"/>
+    <file name="list.css" crc="4017555222" ref="list"/>
+    <file name="blog.css" crc="43057882" ref="blog"/>
+    <file name="index.css" crc="533539422" ref="index"/>
+    <file name="contact.css" crc="4145524535" ref="contact"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:blog:list:contact"/>
     <file name="nomq_index.css" crc="516806355" ref="index"/>
   </folder>
@@ -33,8 +33,8 @@
       <caption webpage="blog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="414671448" seo="true" mt="1624933950951" redirect="true"/>
-  <file name="contact.html" crc="3843647464" seo="true" mt="1624933974045" redirect="true"/>
-  <file name="list.html" crc="4227987665" seo="true" mt="1624933908544" redirect="true"/>
-  <file name="blog.html" crc="4293529854" seo="true" mt="1624933968078" redirect="true"/>
+  <file name="index.html" crc="4157597460" seo="true" mt="1624934167441" redirect="true"/>
+  <file name="contact.html" crc="132587759" seo="true" mt="1624934167441" redirect="true"/>
+  <file name="list.html" crc="3955669269" seo="true" mt="1624934167441" redirect="true"/>
+  <file name="blog.html" crc="4058694604" seo="true" mt="1624934167441" redirect="true"/>
 </manifest>
