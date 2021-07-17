@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1624934233547">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1626556191051">
   <folder name="css">
-    <file name="site_global.css" crc="421304609"/>
+    <file name="site_global.css" crc="4058986600"/>
     <file name="master_a-master.css" crc="3846404222" ref="list:blog:index:contact"/>
-    <file name="list.css" crc="4017555222" ref="list"/>
+    <file name="list.css" crc="3772596553" ref="list"/>
     <file name="blog.css" crc="43057882" ref="blog"/>
     <file name="index.css" crc="533539422" ref="index"/>
     <file name="contact.css" crc="4145524535" ref="contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:blog:list:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:blog:contact"/>
     <file name="nomq_index.css" crc="516806355" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -23,8 +23,8 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3888748215" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:contact"/>
+    <file name="favicon.ico" crc="3888748215" ref="index:list"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:list"/>
     <file name="cutmypic.png" crc="3828806970" seo="true" ref="index:contact:list:blog">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -35,6 +35,6 @@
   </folder>
   <file name="index.html" crc="4157597460" seo="true" mt="1624934167441" redirect="true"/>
   <file name="contact.html" crc="132587759" seo="true" mt="1624934167441" redirect="true"/>
-  <file name="list.html" crc="3955669269" seo="true" mt="1624934167441" redirect="true"/>
+  <file name="list.html" crc="4043750340" seo="true" mt="1626556106097" redirect="true"/>
   <file name="blog.html" crc="4058694604" seo="true" mt="1624934167441" redirect="true"/>
 </manifest>
