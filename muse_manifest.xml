@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1626572495690">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="my2ndangelic.me" resolutions="1x" timestamp="1626597874790">
   <folder name="css">
     <file name="site_global.css" crc="4058986600"/>
     <file name="master_a-master.css" crc="3846404222" ref="list:blog:index:contact"/>
