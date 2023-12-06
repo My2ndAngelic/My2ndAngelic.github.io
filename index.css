@@ -12,9 +12,15 @@ p {
     font-size: 25px;
 }
 
+h1 {
+    align-content: center;
+    vertical-align: middle;
+    font-size: 50px;
+}
+
 img {
     display: inline-block;
-    vertical-align:middle;
+    vertical-align: middle;
 }
 
 .hero-image {
