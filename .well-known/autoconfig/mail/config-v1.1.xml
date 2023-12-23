@@ -5,46 +5,44 @@
     <domain>my2ndangelic.com</domain>
     <displayName>My2ndAngelic</displayName>
     <displayShortName>M2A</displayShortName>
-    <incomingServer type="imap">
-      <hostname>tuesday.mxrouting.net</hostname>
-      <port>993</port>
+    <incomingServer type="pop3">
+      <port>995</port>
       <socketType>SSL</socketType>
-      <authentication>password-encrypted</authentication>
+      <authentication>password-cleartext</authentication>
+      <username>%EMAILADDRESS%</username>
+    </incomingServer>
+      <incomingServer type="pop3">
+      <hostname>tuesday.mxrouting.net</hostname>
+      <port>110</port>
+      <socketType>STARTTLS</socketType>
+      <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </incomingServer>
     <incomingServer type="imap">
       <hostname>tuesday.mxrouting.net</hostname>
       <port>143</port>
       <socketType>STARTTLS</socketType>
-      <authentication>password-encrypted</authentication>
+      <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </incomingServer>
-    <incomingServer type="pop3">
+    <incomingServer type="imap">
       <hostname>tuesday.mxrouting.net</hostname>
-      <port>995</port>
+      <port>993</port>
       <socketType>SSL</socketType>
       <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </incomingServer>
-    <incomingServer type="pop3">
-      <hostname>pop.freenet.de</hostname>
-      <port>110</port>
+    <outgoingServer type="smtp">
+      <hostname>tuesday.mxrouting.net</hostname>
+      <port>587</port>
       <socketType>STARTTLS</socketType>
       <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
-    </incomingServer>
     <outgoingServer type="smtp">
       <hostname>tuesday.mxrouting.net</hostname>
       <port>465</port>
       <socketType>SSL</socketType>
-      <authentication>password-encrypted</authentication>
-      <username>%EMAILADDRESS%</username>
-    </outgoingServer>
-    <outgoingServer type="smtp">
-      <hostname>smtp.freenet.de</hostname>
-      <port>587</port>
-      <socketType>STARTTLS</socketType>
-      <authentication>password-encrypted</authentication>
+      <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </outgoingServer>
     <documentation url="https://web.archive.org/web/20210116164029/http://kundenservice.freenet.de/hilfe/email/programme/config/index.html">
