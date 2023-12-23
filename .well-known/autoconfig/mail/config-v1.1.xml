@@ -11,13 +11,6 @@
       <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </incomingServer>
-      <incomingServer type="pop3">
-      <hostname>tuesday.mxrouting.net</hostname>
-      <port>110</port>
-      <socketType>STARTTLS</socketType>
-      <authentication>password-cleartext</authentication>
-      <username>%EMAILADDRESS%</username>
-    </incomingServer>
     <incomingServer type="imap">
       <hostname>tuesday.mxrouting.net</hostname>
       <port>143</port>
@@ -38,6 +31,7 @@
       <socketType>STARTTLS</socketType>
       <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
+    </outgoingServer>
     <outgoingServer type="smtp">
       <hostname>tuesday.mxrouting.net</hostname>
       <port>465</port>
