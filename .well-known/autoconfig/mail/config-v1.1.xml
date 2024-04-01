@@ -5,13 +5,6 @@
     <domain>my2ndangelic.com</domain>
     <displayName>My2ndAngelic</displayName>
     <displayShortName>M2A</displayShortName>
-    <incomingServer type="pop3">
-      <hostname>tuesday.mxrouting.net</hostname>
-      <port>995</port>
-      <socketType>SSL</socketType>
-      <authentication>password-cleartext</authentication>
-      <username>%EMAILADDRESS%</username>
-    </incomingServer>
     <incomingServer type="imap">
       <hostname>tuesday.mxrouting.net</hostname>
       <port>993</port>
