@@ -6,5 +6,5 @@ Refresh for a surprise
 吾輩は猫である
 ~COMPANY~ fix the game!
 I am not a robot
-Hello, world
+Hello world
 Welcome to Summoner's Rift
