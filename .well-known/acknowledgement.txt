@@ -1,0 +1,7 @@
+Acknowledgements
+
+Security researchers who responsibly report vulnerabilities to m2ndangelic.com may be credited here (optional).
+
+---
+
+---

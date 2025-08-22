@@ -1,0 +1,8 @@
+Contact: https://my2ndangelic.com
+Encryption: https://my2ndangelic.com/pgp.asc
+Policy: https://my2ndangelic.com/.well-known/vulnerability-disclosure.txt
+Acknowledgements: https://my2ndangelic.com/.well-known/acknowledgements.txt (optinal)
+Expires: 2420-06-09T09:11:00.000Z
+Preferred-Languages: en, sv, vi
+Encryption: https://my2ndangelic.com/pgp.asc
+Canonical: https://my2ndangelic.com/.well-known/security.txt

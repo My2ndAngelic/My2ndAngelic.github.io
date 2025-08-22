@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: tuesday-relay.mxrouting.net
+mx: tuesday.mxrouting.net
+mx: feedback-smtp.us-east-1.amazonses.com
+max_age: 604800
