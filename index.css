@@ -127,6 +127,48 @@ h3 {
     display: block;
 }
 
+.project-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+}
+
+.project-table tr {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 1rem;
+    padding: 0.6rem 0.75rem;
+    border-radius: 8px;
+    transition: background 0.15s;
+}
+
+.project-table tr + tr {
+    margin-top: 2px;
+}
+
+.project-table tr:hover {
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.project-table td {
+    padding: 0;
+}
+
+.project-table td:first-child a {
+    color: #c8d6e5;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.15s;
+}
+
+.project-table td:first-child a:hover {
+    color: #ffffff;
+}
+
+.project-table td:last-child {
+    color: rgba(255, 255, 255, 0.5);
+}
+
 footer {
     margin-top: 2rem;
     text-align: center;
@@ -160,5 +202,15 @@ footer p {
     .pill {
         font-size: 0.8rem;
         padding: 0.4rem 0.85rem;
+    }
+
+    .project-table tr {
+        grid-template-columns: 1fr;
+        gap: 0.15rem;
+        padding: 0.5rem 0.75rem;
+    }
+
+    .project-table td:last-child {
+        font-size: 0.8rem;
     }
 }
