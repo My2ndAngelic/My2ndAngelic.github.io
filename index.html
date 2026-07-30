@@ -1,54 +1,66 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="My2ndAngelic - Math student, developer, gamer.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
     <title>My2ndAngelic</title>
+</head>
+<body>
+    <div class="hero">
+        <div class="card">
+            <div class="profile">
+                <img src="images/Image001.png" alt="My2ndAngelic" class="avatar">
+                <h1>My2ndAngelic</h1>
+            </div>
+            <h2 class="quote" id="quote">Enable JavaScript to see some funny quotes.</h2>
+            <hr>
+            <section>
+                <h3>Projects</h3>
+                <div class="links">
+                    <a href="/Maple-Progression-Tracker/" class="pill">Maple Progression Tracker</a>
+                    <a href="/Maple-Toolkit" class="pill">Maple Toolkit</a>
+                    <a href="/bluearchive-logo" class="pill">Blue Archive-style logo gen</a>
+                    <a href="/HanGlyphComparison" class="pill">CJK Glyph Comparison</a>
+                </div>
+            </section>
+            <section>
+                <h3>Contact</h3>
+                <div class="links">
+                    <a href="mailto:m2a&#64;my2ndangelic&#46;com" class="pill">Email</a>
+                    <a href="pgp.asc" class="pill">Public key</a>
+                </div>
+            </section>
+            <section>
+                <h3>Social</h3>
+                <div class="links">
+                    <a href="https://github.com/My2ndAngelic" class="pill pill-icon" aria-label="GitHub"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg></a>
+                    <a href="https://twitter.com/My2ndAngelic" class="pill pill-icon" aria-label="X/Twitter"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+                    <a href="https://www.twitch.tv/my2ndangelic" class="pill pill-icon" aria-label="Twitch"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.428l-3 3v-3H6.857V1.714h13.714Z"/></svg></a>
+                    <a href="https://www.youtube.com/@My2ndAngelic" class="pill pill-icon" aria-label="YouTube"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.376.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.376-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+                </div>
+            </section>
+        </div>
+        <footer>
+            <p>&copy; 2026 My2ndAngelic</p>
+        </footer>
+    </div>
     <script>
     fetch('quotes.txt')
         .then(response => response.text())
         .then(text => {
             const quotes = text.trim().split('\n');
             const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-
-            // Replace ~word~ with <s>word</s>
             const finalQuote = randomQuote.replace(/~(.*?)~/g, '<s>$1</s>');
-
             document.getElementById('quote').innerHTML = finalQuote;
         })
-        .catch(error => {
-            console.error('Error loading quotes:', error);
+        .catch(() => {
             document.getElementById('quote').innerHTML = 'Welcome to my website!';
         });
-</script>
-</head>
-<body>
-<div class="hero-image">
-    <div class="hero-text">
-        <div class="row" style="display:inline-block;">
-            <style>
-                img {
-                    display: inline;
-                    width: 300px;
-                    height: 300px;
-                }
-                h1 {
-                    display: inline;
-                }
-            </style>
-            <img src="images/Image001.png">
-            <h1>My2ndAngelic</h1>
-            <h2 id="quote">Enable JavaScript to see some funny quotes.</h2>
-        </div>
-        <div class="row">
-            <p>Projects: <a href="/Maple-Progression-Tracker/">Maple Progression Tracker</a> | <a href="/Maple-Toolkit">Maple Toolkit</a> | <a href="/bluearchive-logo">BA-style logo generator</a> | <a href="/HanGlyphComparison">GitHub</a></p>
-        </div>
-        <div class="row">
-            <p>Contact: <a href="mailto:m2a&#64;my2ndangelic&#46;com">Email</a> | <a href="pgp.asc">Public key</a></p>
-        </div>
-        <div class="row">
-            <p>Miscellaneous: <a href="https://mikuru.my2ndangelic.com/s/stFYkszB4jGQ7HL">Documents</a> | <a href="https://yuki.my2ndangelic.com">Blog</a></p>
-        </div>
-</div>
+    </script>
 </body>
 </html>
